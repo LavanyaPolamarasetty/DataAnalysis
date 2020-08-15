@@ -10,9 +10,13 @@ what exactly is pandas so pandas is a Python library which is used for data mani
 
 ## Installation: 
 Now I'm going to tell you how you can install pandas on your system. You  just go to your command line or terminal and just type 
-```pip install pandas```
+
+py```pip install pandas```
+
 otherwise if you are using anaconda, just open anaconda prompt/shell and execute 
+
 ```conda install -c anaconda numpy```
+
 ## Application:
 * work on economics  you can use a Python pandas for stock  prediction you can use it for recommendation systems.
 * analyze the data using pandas
