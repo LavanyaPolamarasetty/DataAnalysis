@@ -30,5 +30,3 @@ otherwise if you are using anaconda, just open anaconda prompt/shell and execute
 * Panda series is a one-dimensional. A dataframe is simply a table where each column is a pandas series. 
 * label array capable of holding data of any type which is integer can be string float Python objects etc 
 * The axis labels are collectively called index and panda series is nothing but a column in an excel sheet
-
-
